@@ -33,7 +33,7 @@ Analisis data karyawan menggunakan dataset IBM HR Analytics Employee Attrition &
 | `2_dahsboard_2.png` | Preview dashboard 2 |
 | `3_ibm_hr_analytics.xlsx` | Portofolio lengkap dengan kedua dashboard dan insight dalam bentuk excel |
 ## 🔗 Dataset Asli
-[Sumber: IBM HR Analytics Employee Attrition & Performance]([(https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset?select=WA_Fn-UseC_-HR-Employee-Attrition.csv])
+[Sumber: IBM HR Analytics Employee Attrition & Performance](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset?select=WA_Fn-UseC_-HR-Employee-Attrition.csv)
 
 ## 📱 Kontak
 - Email: ahmadamirhmz@gmail.com

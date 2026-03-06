@@ -28,8 +28,10 @@ Analisis data karyawan menggunakan dataset IBM HR Analytics Employee Attrition &
 ## 📁 File dalam Folder Ini
 | Nama File | Deskripsi |
 |-----------|-----------|
-| `IBM HR Dataset - Ahmad Amir Hamzah.pdf` | Portofolio lengkap dengan kedua dashboard dan insight |
-
+| `1_ibm_hr_analytics.pdf` | Portofolio lengkap dengan kedua dashboard dan insight |
+| `2_dahsboard_1.pdf.png` | Preview dashboard 1 |
+| `3_dahsboard_2.png` | Preview dashboard 2 |
+| `4_ibm_hr_analytics.xlsx` | Portofolio lengkap dengan kedua dashboard dan insight dalam bentuk excel |
 ## 🔗 Dataset Asli
 [Sumber: IBM HR Analytics Employee Attrition & Performance](link-dataset-asli)
 

@@ -19,11 +19,14 @@ Analisis data karyawan menggunakan dataset IBM HR Analytics Employee Attrition &
   - Overtime jadi faktor tertinggi: 31% attrition (3× lipat!)
   - Sales department paling berisiko dengan 21% resign rate
 
-## 🔧 Tools & Fitur Excel
-- PivotTables & PivotCharts
+## 📊 Excel Mastery
+
+**Fitur Excel yang digunakan:**
+- PivotTables & PivotCharts untuk analisis attrition multi-dimensi
 - Slicers untuk filter interaktif (Gender, Job Role)
-- Calculated Field untuk Attrition Rate
-- VLOOKUP dan IF untuk transformasi data
+- Calculated Field untuk menghitung Attrition Rate
+- VLOOKUP & IF untuk transformasi dan grouping data
+- Conditional Formatting untuk highlight insight penting
 
 ## 📁 File dalam Folder Ini
 | Nama File | Deskripsi |

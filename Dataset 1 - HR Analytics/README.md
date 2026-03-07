@@ -29,12 +29,30 @@ Analisis data karyawan menggunakan dataset IBM HR Analytics Employee Attrition &
 | Nama File | Deskripsi |
 |-----------|-----------|
 | `0_ibm_hr_analytics.pdf` | Portofolio lengkap dengan kedua dashboard dan insight |
-| `1_dahsboard_1.pdf.png` | Preview dashboard 1 |
-| `2_dahsboard_2.png` | Preview dashboard 2 |
+| `1_dahsboard1.pdf.png` | Preview dashboard 1 |
+| `2_dahsboard2.png` | Preview dashboard 2 |
 | `3_ibm_hr_analytics.xlsx` | Portofolio lengkap dengan kedua dashboard dan insight dalam bentuk excel |
+
+## 🔍 Key Findings (Ringkasan Eksekutif)
+
+| Temuan | Implikasi Bisnis |
+|--------|------------------|
+| **Overtime = 31% attrition** (3× lipat) | Evaluasi kebijakan lembur, identifikasi penyebab lembur berlebihan |
+| **Sales: performa tinggi (3.2) tapi kepuasan terendah (2.8)** | Ini early warning! Performa tinggi bisa drop kalau kepuasan terus rendah |
+| **Sales department = 21% resign rate** | Prioritas intervensi di Sales: exit interview, program retensi |
+| **Job Satisfaction level 1 = 23% resign** | Perlu perbaikan di faktor-faktor yang mempengaruhi kepuasan kerja |
+| **Environment Satisfaction level 1 = 25% resign** | Lingkungan kerja perlu dievaluasi, terutama di departemen dengan skor rendah 
+
 ## 🔗 Dataset Asli
 [Sumber: IBM HR Analytics Employee Attrition & Performance](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset?select=WA_Fn-UseC_-HR-Employee-Attrition.csv)
 
 ## 📱 Kontak
 - Email: ahmadamirhmz@gmail.com
 - LinkedIn: [linkedin.com/in/ahmdamir](https://linkedin.com/in/ahmdamir)
+
+## 🗓️ Proyek Lainnya
+
+- [📁 Lending Club - Analisis Keuangan](../Dataset%202%20-%20Lending%20Club)
+- [📁 Olist E-commerce Analysis](../Dataset%203%20-%20Olist)
+
+*⭐ Jika proyek ini bermanfaat, jangan lupa star repositori utama!*

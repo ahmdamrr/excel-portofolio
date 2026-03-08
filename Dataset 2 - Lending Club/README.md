@@ -85,7 +85,7 @@ Bachelor of Economics | Research & Data Enthusiast
 ## 🗓️ Proyek Lainnya
 
 - [📁 HR Analytics - IBM Dataset](../Dataset%201%20-%20HR%20Analytics)
-- [📁 Olist E-commerce Analysis](../Dataset%203%20-%20Olist)
+- [📁 Olist E-commerce Analysis](../Dataset%203%20-%20Olist%20E-commerce)
 
 ---
 

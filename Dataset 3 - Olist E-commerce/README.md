@@ -67,6 +67,13 @@ Analisis data e-commerce Brasil (Olist) menggunakan Excel dengan Power Query. Da
 | `3_olist_ecommerce.xlsx` | Portofolio lengkap dengan kedua dashboard dan insight dalam bentuk excel |
 
 ---
+## 🖼️ Preview Dashboard
+
+### Dashboard 1: [Logistic Performance Dashboard]
+<img width="1301" height="688" alt="1_dashboard1" src="https://github.com/user-attachments/assets/a9f78002-4cdd-42f9-a0ea-f878e62ff916"/>
+
+### Dashboard 2: [Sales Performance & Customer Behavior Dashboard]
+<img width="879" height="801" alt="2_dashboard2" src="https://github.com/user-attachments/assets/92d6976f-f4fa-49c8-a801-442ec3fc9f5e" />
 
 ## 🔍 Key Findings (Ringkasan Eksekutif)
 

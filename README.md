@@ -12,7 +12,7 @@ Halo! Selamat datang di repositori portofolio dashboard Excel saya. Di sini saya
 Saya **Ahmad Amir Hamzah**, lulusan Ekonomi yang sedang mengembangkan diri di bidang analisis data. Dalam beberapa bulan terakhir, saya secara mandiri mempelajari pengolahan data menggunakan Excel dan menyusun dashboard-dashboard ini sebagai bukti konkret kemampuan saya.
 
 **Yang bisa saya lakukan dengan Excel:**
-- ✅ Membersihkan dan mempersiapkan data mentah
+- ✅ Membersihkan dan mempersiapkan data mentah (Power Query)
 - ✅ Membuat PivotTable & PivotChart untuk ringkasan data
 - ✅ Mendesain dashboard interaktif dengan Slicers
 - ✅ Menggunakan rumus (VLOOKUP, IF, SUMIFS) untuk kalkulasi
@@ -30,9 +30,9 @@ Repositori ini terdiri dari 3 folder utama, masing-masing berisi 2 dashboard den
 
 | | |
 |---|---|
-| [![HR](https://img.shields.io/badge/📁-HR%20Analytics-blue)](./Dataset%201%20-%20HR%20Analytics) | **IBM HR Employee Attrition** <br> • Dashboard 1: Profil & Performa Karyawan <br> • Dashboard 2: Analisis Faktor Resign |
-| [![Finance](https://img.shields.io/badge/📁-Lending%20Club-green)](./Dataset%202%20-%20Lending%20Club) | **Analisis Pinjaman Lending Club** <br> • Dashboard 1: [judul] <br> • Dashboard 2: [judul] |
-| [![Ecommerce](https://img.shields.io/badge/📁-Olist%20Ecommerce-orange)](./Dataset%203%20-%20Olist) | **Analisis E-commerce Olist** <br> • Dashboard 1: [judul] <br> • Dashboard 2: [judul] |
+| [![HR](https://img.shields.io/badge/📁-HR%20Analytics-blue)](./Dataset%201%20-%20HR%20Analytics) | **IBM HR Employee Attrition** <br> • Dashboard 1: Human Resource Demography Dashboard <br> • Dashboard 2: Attrition Factor Analysis |
+| [![Finance](https://img.shields.io/badge/📁-Lending%20Club-green)](./Dataset%202%20-%20Lending%20Club) | **Analisis Pinjaman Lending Club** <br> • Dashboard 1: Credit Profile Dashboard <br> • Dashboard 2: Portfolio Health Dashboard |
+| [![Ecommerce](https://img.shields.io/badge/📁-Olist%20Ecommerce-orange)](./Dataset%203%20-%20Olist) | **Analisis E-commerce Olist** <br> • Dashboard 1: Logistic Performance Dashboard <br> • Dashboard 2: Sales Performance & Customer Behavior |
 
 *(Klik badge di atas untuk langsung menuju folder proyek)*
 

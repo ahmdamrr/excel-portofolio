@@ -56,6 +56,6 @@ Analisis data karyawan menggunakan dataset IBM HR Analytics Employee Attrition &
 ## 🗓️ Proyek Lainnya
 
 - [📁 Lending Club - Analisis Keuangan](../Dataset%202%20-%20Lending%20Club)
-- [📁 Olist E-commerce Analysis](../Dataset%203%20-%20Olist%20E%20-%20commerce)
+- [📁 Olist E-commerce Analysis](../Dataset%203%20-%20Olist%20E-commerce)
 
 *⭐ Jika proyek ini bermanfaat, jangan lupa star repositori utama!*

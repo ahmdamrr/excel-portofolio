@@ -61,8 +61,10 @@ Analisis data e-commerce Brasil (Olist) menggunakan Excel dengan Power Query. Da
 
 | Nama File | Deskripsi |
 |-----------|-----------|
-| `0_olist_ecommerce.pdf` | Portofolio lengkap dengan 2 dashboard dan insight |
-| `olist_dataset.xlsx` | File Excel asli (54 MB) - [Link Google Drive](https://drive.google.com/...) |
+| `0_olist_ecommerce.pdf` | Portofolio lengkap dengan 2 dashboard, insight, dan temuan bisnis |
+| `1_dahsboard1.png` | Preview dashboard 1 |
+| `2_dahsboard2.png` | Preview dashboard 2 |
+| `3_olist_ecommerce.xlsx` | Portofolio lengkap dengan kedua dashboard dan insight dalam bentuk excel |
 
 ---
 

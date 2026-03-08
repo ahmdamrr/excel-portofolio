@@ -32,7 +32,7 @@ Repositori ini terdiri dari 3 folder utama, masing-masing berisi 2 dashboard den
 |---|---|
 | [![HR](https://img.shields.io/badge/📁-HR%20Analytics-blue)](./Dataset%201%20-%20HR%20Analytics) | **IBM HR Employee Attrition** <br> • Dashboard 1: Human Resource Demography Dashboard <br> • Dashboard 2: Attrition Factor Analysis |
 | [![Finance](https://img.shields.io/badge/📁-Lending%20Club-green)](./Dataset%202%20-%20Lending%20Club) | **Analisis Pinjaman Lending Club** <br> • Dashboard 1: Credit Profile Dashboard <br> • Dashboard 2: Portfolio Health Dashboard |
-| [![Ecommerce](https://img.shields.io/badge/📁-Olist%20Ecommerce-orange)](./Dataset%203%20-%20Olist) | **Analisis E-commerce Olist** <br> • Dashboard 1: Logistic Performance Dashboard <br> • Dashboard 2: Sales Performance & Customer Behavior |
+| [![Ecommerce](https://img.shields.io/badge/📁-Olist%20Ecommerce-orange)](./Dataset%203%20-%20Olist%20E%20-%20commerce) | **Analisis E-commerce Olist** <br> • Dashboard 1: Logistic Performance Dashboard <br> • Dashboard 2: Sales Performance & Customer Behavior |
 
 *(Klik badge di atas untuk langsung menuju folder proyek)*
 

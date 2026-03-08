@@ -36,6 +36,14 @@ Analisis data karyawan menggunakan dataset IBM HR Analytics Employee Attrition &
 | `2_dahsboard2.png` | Preview dashboard 2 |
 | `3_ibm_hr_analytics.xlsx` | Portofolio lengkap dengan kedua dashboard dan insight dalam bentuk excel |
 
+## 🖼️ Preview Dashboard
+
+### Dashboard 1: [Judul Dashboard]
+![HR Dashboard 1 - Profil Karyawan](<img width="1331" height="652" alt="1_dashboard1" src="https://github.com/user-attachments/assets/0c6bf2a6-6153-4a4d-bdae-ff16ab31a91f"/>)
+
+### Dashboard 2: [Judul Dashboard]
+![HR Dashboard 2 - Analisis Attrition](./images/hr-dashboard2-attrition.png)
+
 ## 🔍 Key Findings (Ringkasan Eksekutif)
 
 | Temuan | Implikasi Bisnis |
